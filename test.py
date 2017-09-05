@@ -1,10 +1,10 @@
 #!/usr/bin/python3
 
 def main(msg):
-    // Še en komentar
-	// Dodajam drugi komtar tej datoteki
-	// Izpiše komentar
-
+    // No longer need comments here
     print(msg)
+
+def secondary():
+    print("New function")
 
 main("Pozdravljeni ljudlje!")
