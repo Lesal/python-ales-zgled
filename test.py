@@ -1,3 +1,6 @@
 #!/usr/bin/python3
 
-print("Pozdravljen svet!")
+def main(msg):
+    print(msg)
+
+main("Pozdravljeni ljudlje!")
